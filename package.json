@@ -1,0 +1,25 @@
+{
+  "name": "supervisedlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-knn": "^1.0.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lynxgsm/Supervised-Learning.git"
+  },
+  "author": "Lynxgsm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lynxgsm/Supervised-Learning/issues"
+  },
+  "homepage": "https://github.com/Lynxgsm/Supervised-Learning#readme"
+}
